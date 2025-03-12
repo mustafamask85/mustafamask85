@@ -34,6 +34,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mustafamask85/mustafamask85/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://www.thepopverse.com/_next/image?url=https%3A%2F%2Fmedia.thepopverse.com%2Fmedia%2Fcaptain-tsubasa-anime-visual-qbebohoszsdfvegrkcdnt3cpeq.jpg&w=1280&q=75"  />
+</div>
 
 ###
